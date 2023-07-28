@@ -15,13 +15,15 @@
 
 
 <p align="center" float="top">
-    <img src="/phone.svg" width="50"/>
+    <a href="tel:+981334911"><img src="/phone.svg" width="50"/></a>
     <br>
-    01334911
+    <h3 align="center">01334911</h3>
 </p>
 
 
 <p align="center" float="top">
-  <img src="/wa.svg" width="50"/>
-  <img src="/ig.svg" width="50" /> 
+  <a href="https://wa.me/+989010368524"><img src="/wa.svg" width="50"/></a>
+  <a href="https://instagram.com/poul_star"><img src="/ig.svg" width="50"/></a>
+  <a href="https://poulstar.org"><img src="/web.svg" width="50"/></a>
+
 </p>
